@@ -1,4 +1,3 @@
-# Industrial2
 # Application of Converting the Evaluation System Transcript into a Visual Diagram of the Formed Competences of the Graduate
 
 ## Overview
